@@ -18,6 +18,8 @@
   text-decoration: none;
   text-transform: uppercase;
 
+  transition: background-color 1s;
+
   &:hover {
     background-color: #fff;
     color: #00acdc;
